@@ -1,5 +1,5 @@
 <div class="md:container pl-8 pt-8 pr-4">
-  <h1 class="font-dungeon text-6xl text-white">Mirkwood</h1>
+  <h1 class="font-dungeon text-6xl text-white">Myrkwood</h1>
   <p class="font-sink text-lg text-white">An autobattler RPG mobile game created by <a target="_blank" href="https://minota.cc" class="transition-colors text-sky-500 hover:text-sky-600">Juan Pichardo</a>.</p>
 
   <h2 class="font-dungeon text-5xl text-white mt-6 mb-4">Important Links</h2>
